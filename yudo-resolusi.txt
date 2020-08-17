@@ -4,3 +4,4 @@ Resolusi
 -Membangun Web dari laravel
 -Bekerja distartup
 -Membangun mobile apps
+-ok
